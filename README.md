@@ -1,1 +1,2 @@
 # odin-recipes
+This current project I will be creating a recipe website. I will practice using different attributes to italicize and emphasize different words. I will also practice using pragraphs and possibly some pictures. 
